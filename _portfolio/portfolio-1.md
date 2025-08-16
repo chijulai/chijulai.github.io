@@ -1,6 +1,6 @@
 ---
 title: "Synthetic Clinical Trial Data Generation"
-excerpt: "Developed ML pipelines using generative AI models to simulate clinical trial datasets from protocol metadata, reducing trial design timelines and enabling early pipeline testing.<br/><img src='/images/synthetic.png'>"
+excerpt: "Developed ML pipelines using generative AI models to simulate clinical trial datasets from protocol metadata, reducing trial design timelines and enabling early pipeline testing.<br/>"
 collection: portfolio
 ---
  
