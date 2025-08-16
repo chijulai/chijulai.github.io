@@ -1,6 +1,6 @@
 ---
 title: "Multimodal EHR Database for Heart Failure Research"
-excerpt: "Designed and deployed a scalable database integrating 10+ million records from 40,000+ patients across 31 hospitals. Standardized data across diverse sources to enable real-world evidence studies, creating a generalizable, multi-center database that promotes fair representation across patient populations.<br/><img src='/images/synthetic.png'>"
+excerpt: "Designed and deployed a scalable database integrating 10+ million records from 40,000+ patients across 31 hospitals. Standardized data across diverse sources to enable real-world evidence studies, creating a generalizable, multi-center database that promotes fair representation across patient populations.<br/>"
 collection: portfolio
 ---
  
