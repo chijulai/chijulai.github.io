@@ -13,4 +13,4 @@ I specialize in Machine Learning, Generative AI, NLP, and LLMs, with a strong ba
 
 Beyond the technical side, I enjoy collaborating across disciplines — from clinicians and researchers to engineers and business teams — to design solutions that are not only scientifically rigorous but also practically impactful.
 
-Outside of work, I enjoy working out, playing badminton, reading, and singing. Feel free to drop me an email if you're interested in working with me!
+Outside of work, I enjoy working out, playing badminton, reading, and singing. 
