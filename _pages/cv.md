@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Find the updated version of my resume [here]()
+Find the updated version of my resume [here](https://drive.google.com/file/d/1rlgixM00x-U71zC11jmzbg8tz0tswK5Y/view?usp=sharing)
 
 <!-- Education
 ======
